@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
+- [Akansha Rawat](https://github.com/xx-codificare-x)
 - [Jai-Marothiya](https://github.com/Jai-Marothiya)
 - [Monodeep-Das](https://github.com/Monodeep-Das)
 - [Patil 2104](https://github.com/patil2104)
@@ -237,7 +238,6 @@
 - [kostas Vitiniotis](https://github.com/kostisvit)
 - [Prabhav Bakliwal](https://github.com/Prabhav27)
 - [Muskan Bhardwaj](https://github.com/muskan27042001)
-- [Harish Narnaware](https://github.com/harish343)
 - [Aditya Ghyar](https://github.com/mgaditya-er)
 - [Syed Mohammad Osama](https://github.com/syed-m-osama)
 - [Azhar Sayyad](https://github.com/Azhar221)
@@ -311,7 +311,6 @@
 - [Sahil Kamate](https://github.com/sahilkamate03)
 - [Emore Ogheneyoma Lawrence](https://github.com/devyoma)
 - [Harry Sion Tarigan] (https://github.com/hawryyy30)
-- [Jahnvi ] (https://github.com/jahnvi15/)
 - [Viraj Vishwanath Dalvi] (https://github.com/virajdalvi)
 - [Abhay] (https://github.com/darkbits018)
 - [Priyansh Maheshwari] (https://github.com/priyanshm07)
